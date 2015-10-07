@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://lobbycracy.github.io
+title: Lobbycracy
+tagline: Musings about the impact of lobbies on the governance of our countries
+description: Information on Lobbies & Democracies
+paginate: 5
